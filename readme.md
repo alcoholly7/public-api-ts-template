@@ -6,3 +6,4 @@ This is a template repo for setting up following resources:
 * Hello world lambda function in Typescript
 
 newline testing
+newline
